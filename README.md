@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Akshita Tiwary.
 - 👀 I’m interested in Native Android Development.
-- 🌱 I’m currently learning Jetpack Compose.
 - 📫 Reach me through akshitatiwary16@gmail.com.
 
 <!---
