@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshita Tiwary</h1>
-<h3 align="center">A passionate researcher and developer focusing on the fields of **Natural Language Processing** (NLP) and **Large Language Models (LLMs)**. With a strong foundation in **Android development**, I’m currently diving deeper into **low-resource languages** and exploring ways to improve NLP models for underrepresented languages.</h3>
+<h3 align="center">A passionate researcher and developer focusing on the fields of Natural Language Processing (NLP) and Large Language Models (LLMs). With a strong foundation in Android development, I’m currently diving deeper into low-resource languages and exploring ways to improve NLP models for underrepresented languages.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash1605" alt="ash1605" /></a> </p>
 
