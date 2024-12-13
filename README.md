@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshita Tiwary</h1>
 <h3 align="center">A passionate researcher and developer focusing on the fields of Natural Language Processing (NLP) and Large Language Models (LLMs). With a strong foundation in Android development, I’m currently diving deeper into low-resource languages and exploring ways to improve NLP models for underrepresented languages.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash1605" alt="ash1605" /></a> </p>
-
 - 🔭 I’m currently working on **Code Generation in LLMs**
 
 - 🌱 I’m currently learning **LoRA in LLMs and Transfer Learning**
@@ -16,6 +14,18 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/18gR221Zecd33M8BIQ9jiuZDQamfr9ez7/view?usp=sharing](https://drive.google.com/file/d/18gR221Zecd33M8BIQ9jiuZDQamfr9ez7/view?usp=sharing)
 
 - ⚡ Fun fact **I love Anime!**
+<p>
+<br clear="left"/>
+
+ 
+ <p align="center">
+ <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/ad02e3df-ee1e-436c-9d2a-adad55645b5f" width="200px">
+ <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/596b96c1-3d71-4925-accd-efa871909996" width="200px">
+ <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/16ecfeb3-fd92-4834-8535-0c5d188ae2d8" width="200px">
+ </p>
+
+ <br/>
+<p />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
