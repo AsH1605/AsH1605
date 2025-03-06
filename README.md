@@ -11,19 +11,21 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
   
-  - 🔭 I’m currently learning Jetpack Compose.  
+- 🔭 I’m currently learning Jetpack Compose.
+
 - 👯 I’m looking to collaborate on open source projects  
+
 - 🤔 I’m looking forward for just chit-chat. 
+
 - 💬 Ask me about ML and Android stuffs
+
 - - 📄 Know about my experiences at [Drive](https://drive.google.com/file/d/18gR221Zecd33M8BIQ9jiuZDQamfr9ez7/view?usp=sharing)
+
 - 📫 Reach me at: <a href="mailto:akshitatiwary16@gmail.com">email</a>, <a href="https://www.linkedin.com/in/akshitatiwary1605/">linkedin<a/>
+
 - 😄 Pronouns: She/Her
+
 - ⚡ Fun fact **I love Anime!**
 
 </div>
