@@ -4,8 +4,8 @@
 </h3>
 
 <p>
-<img align="left" src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/ad02e3df-ee1e-436c-9d2a-adad55645b5f" width="200px">
-  
+<img align="left" src="https://github.com/user-attachments/assets/ee17ca62-6bc4-4fef-bd7a-c466fefbdca4" width="500px">
+
 - 🔭 I’m currently learning Jetpack Compose.  
 - 👯 I’m looking to collaborate on open source projects  
 - 🤔 I’m looking forward for just chit-chat. 
