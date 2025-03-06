@@ -18,7 +18,7 @@
 
 - 🤔 I’m looking forward for just chit-chat. 
 
-- 💬 Ask me about ML and Android stuffs
+- 💬 Ask me about Android and ML stuffs
 
 - - 📄 Know about my experiences at [Drive](https://drive.google.com/file/d/18gR221Zecd33M8BIQ9jiuZDQamfr9ez7/view?usp=sharing)
 
