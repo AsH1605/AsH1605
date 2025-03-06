@@ -3,10 +3,21 @@
   A passionate Android Developer focused on building performant and feature rich Android Applications. I am also interested in LLMs and NLP.
 </h3>
 
-<p>
+<p aligh="bottom">
 <img align="left" src="https://github.com/user-attachments/assets/ee17ca62-6bc4-4fef-bd7a-c466fefbdca4" width="500px">
 
-- 🔭 I’m currently learning Jetpack Compose.  
+<div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+  - 🔭 I’m currently learning Jetpack Compose.  
 - 👯 I’m looking to collaborate on open source projects  
 - 🤔 I’m looking forward for just chit-chat. 
 - 💬 Ask me about ML and Android stuffs
@@ -14,6 +25,10 @@
 - 📫 Reach me at: <a href="mailto:akshitatiwary16@gmail.com">email</a>, <a href="https://www.linkedin.com/in/akshitatiwary1605/">linkedin<a/>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact **I love Anime!**
+
+</div>
+
+
 <p />
 
 <p>
